@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyx:home|Door43 (kyx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyx|d43-kyx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyx/archive/master.zip|d43-kyx.zip]]
+
+**Recent Changes**
+{{changes>ns = kyx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyx|Ethnologue data]]
+
